@@ -61,7 +61,13 @@
         "id": "2",
         "hotel_id": 2,
         "city": "İstanbul",
-        "possibilities": ["Kapalı Yüzme Havuzu", "Açık Yüzme Havuzu", "Sauna", "Tenis Kortu", "Spor Salonu"],
+        "possibilities": [
+            "Kapalı Yüzme Havuzu",
+            "Açık Yüzme Havuzu",
+            "Sauna",
+            "Tenis Kortu",
+            "Spor Salonu"
+        ],
         "max_adult_size": 5,
         "child_status": false,
         "room_type": [
@@ -112,7 +118,13 @@
         "id": "3",
         "hotel_id": 3,
         "city": "Antalya",
-        "possibilities": ["Kapalı Yüzme Havuzu", "Açık Yüzme Havuzu", "Masaj", "Özel Plaj", "Fitness Center"],
+        "possibilities": [
+            "Kapalı Yüzme Havuzu",
+            "Açık Yüzme Havuzu",
+            "Masaj",
+            "Özel Plaj",
+            "Fitness Center"
+        ],
         "max_adult_size": 8,
         "child_status": true,
         "room_type": [
@@ -163,7 +175,12 @@
         "id": "4",
         "hotel_id": 4,
         "city": "İzmir",
-        "possibilities": ["Açık Yüzme Havuzu", "Sauna", "SPA Salonu", "Bar"],
+        "possibilities": [
+            "Açık Yüzme Havuzu",
+            "Sauna",
+            "SPA Salonu",
+            "Bar"
+        ],
         "max_adult_size": 12,
         "child_status": false,
         "room_type": [
